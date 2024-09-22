@@ -5,6 +5,7 @@ let year = 2009
 
 while (year <= 2023){
   array.push(author +" " + year)
+  array.push(year + " " + author)
   year++
 }
 
