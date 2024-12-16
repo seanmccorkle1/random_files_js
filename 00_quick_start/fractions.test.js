@@ -1,13 +1,13 @@
 import simplifiedFractions from "./simplify-fractions"
 
-require(// lib/chai/interface/assert.js)
+// require(// lib/chai/interface/assert.js)
 // lib/chai/interface/assert.js
 
-simplifiedFractions
+// simplifiedFractions
 // import describe from 'describe'
 
 console.log(simplifiedFractions(4),   ["1/2","1/3","1/4","2/3","3/4"])
-simplifiedFractions(5)
+// simplifiedFractions(5)
 
 
 // C:\Users\rickm\.wallaby\tutorial\wallaby-tutorial\node_modules
