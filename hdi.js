@@ -3,8 +3,6 @@ const populations = {"punjab": 127688922, "sindh": 55696147, "kpk": 40856097, "b
 
 let path="C:\Users\seans\source\repos\random_files_js\hdi.js"
 
-
-//asdasdasd
 // HDI values for each region
 const hdi_values = {"punjab": 0.543, "sindh": 0.511, "kpk": 0.508, "balochistan": 0.457, "ict": 0.650, "ajk ": 0.587, "gilgit": 0.570};
 
