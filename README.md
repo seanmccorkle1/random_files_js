@@ -1,2 +1,2 @@
 # random_files_js
-from online ides
+Assorted files, from online ides and my computer.
